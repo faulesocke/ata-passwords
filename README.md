@@ -15,8 +15,13 @@ These are usually set by controllers or NASes.
 
 
 # Other resources
-  * https://ipv5.wordpress.com/2008/04/10/4/
+## Lists
   * https://ipv5.wordpress.com/2008/04/14/list-of-hard-disk-ata-master-passwords/
+  * http://www.hddoracle.com/viewtopic.php?f=95&t=561
+
+
+## Useful stuff
+  * https://ipv5.wordpress.com/2008/04/10/4/
   * Tool to dump Seagate controller memory https://github.com/BlackLotus/seaget
   * https://hddguru.com/
   * Just look at the pictures and bold english text from this: https://ibenerin.com/2016/01/21/hacking-disk-terminal-mode/
@@ -25,3 +30,5 @@ These are usually set by controllers or NASes.
   * More modern seagate list http://elabz.com/forums/electronics-repairs/list-of-seagate-firmware-terminal-commands/
   * How to fix "dead" Seagate drives https://sites.google.com/site/seagatefix/
   * Where to obtain HDD parts: https://www.hdd-parts.com/
+  * https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase
+  * https://www.ultimatebootcd.com/download.html
